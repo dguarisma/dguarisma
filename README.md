@@ -33,21 +33,21 @@
     <td>
       <a target="_blank" href="https://developer.mozilla.org/es/docs/Glossary/HTML5" width="200">
         <img style="margin: auto;" alt="Html5"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/95316c81-8327-43d2-bc44-427317c54338" width="200"
+          src="https://github.com/dguarisma/dguarisma/assets/66569273/851079d2-bb4d-43fd-81e4-6aa52eb051f6" width="200"
           height="auto" />
       </a>
     </td>
     <td>
       <a target="_blank" href="https://www.w3.org/Style/CSS/Overview.en.html">
         <img style="margin: auto;" alt="Css3"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/363f20f9-3e89-41a1-a497-ab6349027010" width="200"
+          src="https://github.com/dguarisma/dguarisma/assets/66569273/be85a6f9-1402-4229-9afe-c647234deda7" width="200"
           height="auto" />
       </a>
     </td>
     <td>
       <a target="_blank" href="https://www.tableau.com/">
         <img style="margin: auto;" alt="Tableau"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/22fe85ca-efe6-48cb-9aca-3d2fca7a0b21" width="200"
+          src="https://github.com/dguarisma/dguarisma/assets/66569273/9acc0788-4829-47b8-8a56-f49186d4f25b" width="200"
           height="auto" />
       </a>
     </td>
