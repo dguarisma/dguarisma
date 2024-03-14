@@ -381,7 +381,7 @@
     <td>
       <a target="_blank" href="https://sentry.io/welcome/">
         <img style="margin: auto;" alt="Sentry"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/b9366a83-911f-4ade-bc69-a1c3dc2e8434" width="200"
+          src="https://github.com/dguarisma/dguarisma/assets/66569273/d126135b-f0f6-4c7b-9a20-88fb5c2bc6ce" width="200"
           height="auto" />
       </a>
     </td>
@@ -407,7 +407,7 @@
     <td>
       <a target="_blank" href="https://strapi.io/">
         <img style="margin: auto;" alt="Strapi"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/6d27cc19-c850-4af4-861f-a2cebb09988b" width="200"
+          src="https://github.com/dguarisma/dguarisma/assets/66569273/d023002a-2004-4ed2-84b0-2244a704ebbf" width="200"
           height="auto" />
       </a>
     </td>
