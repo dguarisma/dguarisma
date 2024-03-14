@@ -18,13 +18,12 @@
 - **Elaboradas con código perfecto a nivel de píxeles ✨**
 
 <br/>
-<br/>
 
 <h4>Skills and Tools: </h4>
 <br/>
 <table>
   <tr>
-    <td align="center" style="vertical-align: middle;">
+    <td>
       <a target="_blank" href="https://www.php.net/" style="padding:10px">
         <img style="margin: auto;" alt="PHP"
           src="https://github.com/dguarisma/dguarisma/assets/66569273/40a55ac7-afdd-43c3-be29-f917243780c6" width="200"
