@@ -21,11 +21,16 @@
 
 <h4>Skills and Tools: </h4>
 <br/>
-   <img style="margin: auto;" alt="PHP"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/40a55ac7-afdd-43c3-be29-f917243780c6" width="200"
-          height="auto" />
+
 <table>
   <tr>
+       <td>
+      <a target="_blank" href="https://developer.mozilla.org/es/docs/Glossary/HTML5" width="auto">
+      <img style="margin: auto;" alt="PHP"
+          src="https://github.com/dguarisma/dguarisma/assets/66569273/40a55ac7-afdd-43c3-be29-f917243780c6" width="auto"
+          height="auto" />
+      </a>
+    </td>
     <td>
       <a target="_blank" href="https://developer.mozilla.org/es/docs/Glossary/HTML5" width="200">
         <img style="margin: auto;" alt="Html5"
