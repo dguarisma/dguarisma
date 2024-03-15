@@ -21,8 +21,8 @@
 
 <h4>Skills and Tools: </h4>
 <br/>
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="left">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,php,html,vue,javascript,react,nextjs,netlify,nestjs,less,laravel,css,github,bitbucket,babel,heroku,go,bun,angular,fastapi,aws,wordpress,redux,nodejs,gulp,sass,figma,firebase,ts,notion,jquery,yarn,npm,pnpm,py,vscode,vite,vercel,svelte,sentry,postgres,mysql,supabase,tailwind,bootstrap,materialui" />
   </a>
 </p>
