@@ -66,7 +66,6 @@
 <br/>
 <br/>
 <br/>
-📫 Conéctate conmigo:
-[LinkedIn](https://www.linkedin.com/in/david-guarisma-684469106/)
+📫 Conéctate conmigo:(https://www.linkedin.com/in/david-guarisma-684469106/)
 
 ¡Gracias por visitar mi perfil!
