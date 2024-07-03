@@ -30,42 +30,43 @@
 <br/>
 <h4>Integraciones de Terceros: </h4>
 <br/>
-        <img style="margin: auto;" alt="Cloudinary"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/5095c550-ebf9-4e48-9a35-cc9408a8f261" width="50"
-          height="auto" />
-        <img style="margin: auto;" alt="Openai"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/84d754b1-c489-42a1-9f76-1317d19b41de" width="50"
-          height="auto" />
-        <img style="margin: auto;" alt="Google Analytics"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/9ea979db-a2e4-425f-91dd-b4e3dfaeabda" width="50"
-          height="auto" />
-        <img style="margin: auto;" alt="PayU"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/14e3c1fa-2f35-4e35-a0e1-4469d8051923" width="50"
-          height="auto" />
-        <img style="margin: auto;" alt="Paypal"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/c9207930-ab21-4f4e-91d8-b97145673a1a" width="50"
-          height="auto" />
-        <img style="margin: auto;" alt="Cloudflare"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/e31337f3-0664-4e2e-bee2-abacbbf07cd5" width="50"
-          height="auto" />
-        <img style="margin: auto;" alt="Strapi"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/d023002a-2004-4ed2-84b0-2244a704ebbf" width="50"
-          height="auto" /
-        <img style="margin: auto;" alt="Sendgrid"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/2652bec3-20fd-4037-b31d-960c9fc8e335" width="50"
-          height="auto" />
-        <img style="margin: auto;" alt="SonarQube Scan"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/a9568721-f2ee-4909-92b7-92a867b2e2e2" width="50"
-          height="auto" />
-        <img style="margin: auto;" alt="Twilio"
-          src="https://github.com/dguarisma/dguarisma/assets/66569273/a2ac36bb-a3ad-4dad-9742-d3e242827261" width="50"
-          height="auto" />
- 
+<a href="https://cloudinary.com" target="_blank">
+  <img alt="Cloudinary" src="https://github.com/dguarisma/dguarisma/assets/66569273/5095c550-ebf9-4e48-9a35-cc9408a8f261" width="50" />
+</a>
+<a href="https://openai.com" target="_blank">
+  <img alt="Openai" src="https://github.com/dguarisma/dguarisma/assets/66569273/84d754b1-c489-42a1-9f76-1317d19b41de" width="50" />
+</a>
+<a href="https://analytics.google.com" target="_blank">
+  <img alt="Google Analytics" src="https://github.com/dguarisma/dguarisma/assets/66569273/9ea979db-a2e4-425f-91dd-b4e3dfaeabda" width="50" />
+</a>
+<a href="https://www.payu.com" target="_blank">
+  <img alt="PayU" src="https://github.com/dguarisma/dguarisma/assets/66569273/14e3c1fa-2f35-4e35-a0e1-4469d8051923" width="50" />
+</a>
+<a href="https://www.paypal.com" target="_blank">
+  <img alt="Paypal" src="https://github.com/dguarisma/dguarisma/assets/66569273/c9207930-ab21-4f4e-91d8-b97145673a1a" width="50" />
+</a>
+<a href="https://www.cloudflare.com" target="_blank">
+  <img alt="Cloudflare" src="https://github.com/dguarisma/dguarisma/assets/66569273/e31337f3-0664-4e2e-bee2-abacbbf07cd5" width="50" />
+</a>
+<a href="https://strapi.io" target="_blank">
+  <img alt="Strapi" src="https://github.com/dguarisma/dguarisma/assets/66569273/d023002a-2004-4ed2-84b0-2244a704ebbf" width="50" />
+</a>
+<a href="https://sendgrid.com" target="_blank">
+  <img alt="Sendgrid" src="https://github.com/dguarisma/dguarisma/assets/66569273/2652bec3-20fd-4037-b31d-960c9fc8e335" width="50" />
+</a>
+<a href="https://www.sonarqube.org" target="_blank">
+  <img alt="SonarQube Scan" src="https://github.com/dguarisma/dguarisma/assets/66569273/a9568721-f2ee-4909-92b7-92a867b2e2e2" width="50" />
+</a>
+<a href="https://www.twilio.com" target="_blank">
+  <img alt="Twilio" src="https://github.com/dguarisma/dguarisma/assets/66569273/a2ac36bb-a3ad-4dad-9742-d3e242827261" width="50" />
+</a>
+
 
 <br/>
 <br/>
 <br/>
 <br/>
-📫 Conéctate conmigo:(https://www.linkedin.com/in/david-guarisma-684469106/)
+
+📫 Conéctate conmigo: [Linkedin](https://www.linkedin.com/in/david-guarisma-684469106/)
 
 ¡Gracias por visitar mi perfil!
