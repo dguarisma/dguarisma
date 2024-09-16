@@ -1,9 +1,13 @@
-<h1 align="left">
+<h1 align="center">
   ¡Hey 👋! Soy dguarisma.
 </h1>
 
 👨🏻‍💻 Soy Ingeniero Informático y Desarrollador Full Stack con más de 10 años de experiencia. Hábil en escribir código bien diseñado, comprobable y eficiente utilizando las mejores prácticas actuales en desarrollo web.
 🌐 ¡Explora mis repositorios y descubre cómo mi pasión por la programación se traduce en soluciones creativas y eficaces!
+
+[![Estadísticas de GitHub de David Guarisma](https://github-readme-stats.vercel.app/api?username=dguarisma&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dguarisma/github-readme-stats#gh-dark-mode-only)
+[![Estadísticas de GitHub de David Guarisma](https://github-readme-stats.vercel.app/api?username=dguarisma&show=prs_merged,prs_merged_percentage&&sow_icons=true&theme=default#gh-light-mode-only)](https://github.com/dguarisma/github-readme-stats#gh-light-mode-only)
+
 <h2 align="left">
  Creo experiencias de usuario que son:
 </h2>
