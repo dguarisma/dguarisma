@@ -4,7 +4,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=dguarisma&color=0d3d6e&style=flat-square&label=visitors)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Guarisma-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dguarisma)
-[![Portafolio](https://img.shields.io/badge/Portafolio-dguarisma.dev-000?style=flat-square&logo=vercel)](https://dguarisma.dev)
+[![Portafolio](https://img.shields.io/badge/Portafolio-dguarisma.dev-000?style=flat-square&logo=vercel)](https://v0-david-guarisma.vercel.app/)
 [![Superfüds](https://img.shields.io/badge/Superfüds-CTO-f5a623?style=flat-square)](https://superfuds.com)
 [![Colombia](https://img.shields.io/badge/Bogotá-Colombia-003087?style=flat-square)](https://github.com/dguarisma)
 
@@ -312,7 +312,7 @@ Today, as **CTO at Superfüds**, I lead a tech strategy where AI isn't an experi
 ### ¿Construyendo algo interesante? Hablemos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Guarisma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dguarisma)
-[![Portafolio](https://img.shields.io/badge/Portafolio-dguarisma.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://dguarisma.dev)
+[![Portafolio](https://img.shields.io/badge/Portafolio-dguarisma.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-david-guarisma.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-dguarisma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dguarisma)
 
 <br/>
